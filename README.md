@@ -1,5 +1,9 @@
 # 🤖 Bot Mirza Panel
 
+The project will continue to be developed on the repository.
+ <a href="https://t.me/mirzapanel" target="_blank">
+        <a href="https://github.com/mahdiMGF2/mirzabot">link</a>
+    </a>
 
 
 A Powerful Bot for Selling VPN Services with Auto Configuration Build.
